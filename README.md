@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Febrian Dwi Maulana</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febriandwm" alt="febriandwm" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java**
 
