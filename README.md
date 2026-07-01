@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Febrian Dwi Maulana</h1>
+<h1 align="center">Hi , I'm Febrian Dwi Maulana</h1>
 
 
-- 🌱 I’m currently learning **Python, Java**
+- I’m currently learning **Python, Java**
 
 <p align="left">
 </p>
